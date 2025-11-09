@@ -1,0 +1,7 @@
+1. Git and Github setup
+2. Data Ingestion
+3. Data Preprocessing
+4. Model Building
+5. Model Evaluation
+6. Add data, logs, models, reports to .gitignore file
+7. Git commit and Push
